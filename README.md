@@ -1,8 +1,8 @@
 ### Hi there, I'm Efra 👋
 
-- 🔭 I’m currently working on beginning a formal career as a web developer.
-- 🌱 I’m committed to learning about subjects within the tech ecosystem, especially within Web Development. 
+- 🔭 I am a recent IT graduate from University of Washington.
+- 🌱 I’m committed to learning about subjects within the tech ecosystem, especially within Web Development, and teaching others around me.
 
 
-📫 Email: efra.ahsan23@gmail.com
+📫 Email: efra.ahsan23@gmail.com   
 ⚡ Website: 
