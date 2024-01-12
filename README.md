@@ -1,8 +1,5 @@
 ### Hi there, I'm Efra 👋
 
-- 🔭 I am a recent IT graduate from University of Washington.
-- :seedling: I am committed to learning web development, and staying a lifelong IT student.
-
 📫 Email: efra.ahsan23@gmail.com   
 ⚡ Website: 
 
