@@ -1,5 +1,7 @@
 
 
+
+
 ### Hi there, I'm Efra 👋
 
 📫 Email: efra.ahsan23@gmail.com   
@@ -18,6 +20,6 @@
 </div>
 
 #### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efra-tech&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
